@@ -8,4 +8,11 @@ body {
   font-family: 'Press Start 2P', monospace;
   background-color: var(--color-bg);
   color: var(--color-text);
+  padding: 40px;
+}
+a { 
+  color: var(--color-accent-2); 
+}
+section, header, footer {
+  margin-bottom: 40px;
 }
